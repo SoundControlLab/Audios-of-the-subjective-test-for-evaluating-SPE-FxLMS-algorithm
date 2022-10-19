@@ -30,17 +30,17 @@
   **lable:**            *Indicates which machine this audio belongs to*
   
   1 -- transformer 1;    
-  2 -- transformer 2.
+  2 -- transformer 2. 
   
   **method:**           *Indicates which algorithm this residual sound resultant from*
   
-  FxLMS; 
-  Broadband ANE; 
-  SPE-FxLMS.
+  FxLMS;  
+  Broadband ANE;   
+  SPE-FxLMS.  
   
   **nr:**               *Indicates the noise reduction level*
   
-  9dB; 
-  12dB; 
-  15dB; 
-  18dB.
+  9dB;  
+  12dB;  
+  15dB;  
+  18dB. 
