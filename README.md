@@ -3,7 +3,7 @@
   
   In total, there are 16 recordings of reference sound, resultant from four transformers of two types and four work locations in the substation's control room. And there are 48 recordings of the residual sound, resultant from three different algorithms, four noise reduction levels, and four transformers of two types.
   
-## Naming rules for the audio of subjective text: 
+## Naming rules for the audios of subjective text: 
 ### reference sounds:   "machine type_lable_target_ positionID.wav"
   #### machine type: 
   power -- power transformer;  converter -- converter transformer
