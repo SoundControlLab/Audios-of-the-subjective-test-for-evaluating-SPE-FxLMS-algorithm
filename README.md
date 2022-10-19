@@ -5,11 +5,18 @@
   
 ## Naming rules for the audio of subjective text: 
 ### reference sounds:   "machine type_lable_target_ positionID.wav"
-  machine type: power -- power transformer;  converter -- converter transformer
-	lable: 1 -- transformer 1;    2 -- transformer 2
-	positionID: which target position that the reference sound recorded in the control room of the transformer substation.
+  #### machine type: 
+  power -- power transformer;  converter -- converter transformer
+  #### lable: 
+  1 -- transformer 1;    2 -- transformer 2
+  #### positionID: 
+  which target position that the reference sound recorded in the control room of the transformer substation.
 ### stimuli: "machine type_lable _method_ nr.wav"
-  machine type: power -- power transformer;  converter -- converter transformer
-	lable: 1 -- transformer 1;    2 -- transformer 2
-	method: FxLMS; Broadband ANE; SPE-FxLMS
-	nr: the noise reduction level; 9dB, 12dB, 15dB, 18dB
+  #### machine type: 
+  power -- power transformer;  converter -- converter transformer
+  #### lable: 
+  1 -- transformer 1;    2 -- transformer 2
+  #### method: 
+  FxLMS; Broadband ANE; SPE-FxLMS
+  #### nr: the noise reduction level
+  9dB, 12dB, 15dB, 18dB
