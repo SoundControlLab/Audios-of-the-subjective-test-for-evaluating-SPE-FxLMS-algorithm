@@ -4,30 +4,30 @@
   In total, there are 16 recordings of reference sound, resultant from four transformers of two types and four work locations in the substation's control room. And there are 48 recordings of the residual sound, resultant from three different algorithms, four noise reduction levels, and four transformers of two types.
   
 ## Naming rules for the audios of subjective text: 
-### reference sounds:   "machine type_lable_target_ positionID.wav"
-  #### machine type:      Indicates which machine type this audio belongs to
+### reference sounds:   "machine type_lable_target_positionID.wav"
+  #### machine type:      _ Indicates which machine type this audio belongs to
   power -- power transformer;  
   converter -- converter transformer.
-  #### lable:             Indicates which machine this audio belongs to
+  #### lable:             _ Indicates which machine this audio belongs to
   1 -- transformer 1;    
   2 -- transformer 2.
-  #### positionID:        Indicates which target position this reference sound recorded from in the control room
+  #### positionID:        _ Indicates which target position this reference sound recorded from in the control room
   1 -- target position 1;    
   2 -- target position 2;  
   3 -- target position 3;  
   4 -- target position 4.
-### residual sound:     "machine type_lable _method_ nr.wav"
-  #### machine type:      Indicates which machine type this audio belongs to
+### residual sound:     "machine type_lable_method_nr.wav"
+  #### machine type:      _ Indicates which machine type this audio belongs to
   power -- power transformer;  
   converter -- converter transformer.
-  #### lable:             Indicates which machine this audio belongs to
+  #### lable:             _ Indicates which machine this audio belongs to
   1 -- transformer 1;    
   2 -- transformer 2.
-  #### method:            Indicates which algorithm this residual sound resultant from
+  #### method:            _ Indicates which algorithm this residual sound resultant from
   FxLMS; 
   Broadband ANE; 
   SPE-FxLMS.
-  #### nr:                Indicates the noise reduction level
+  #### nr:                _ Indicates the noise reduction level
   9dB; 
   12dB; 
   15dB; 
