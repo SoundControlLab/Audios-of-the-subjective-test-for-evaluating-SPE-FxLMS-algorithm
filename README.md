@@ -21,7 +21,7 @@
   position2 -- target position 2;  
   position3 -- target position 3;  
   position4 -- target position 4.
-### residual sound:     "machine type_lable_method_nr.wav"
+### stimuli:     "machine type_lable_method_nr.wav"
   **machine type:**     *Indicates which machine type this audio belongs to*
   
   power -- power transformer;  
