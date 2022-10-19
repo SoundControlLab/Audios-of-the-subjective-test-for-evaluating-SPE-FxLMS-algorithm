@@ -17,10 +17,10 @@
   
   **positionID:**        *Indicates which target position this reference sound recorded from in the control room*
   
-  1 -- target position 1;    
-  2 -- target position 2;  
-  3 -- target position 3;  
-  4 -- target position 4.
+  position1 -- target position 1;    
+  position2 -- target position 2;  
+  position3 -- target position 3;  
+  position4 -- target position 4.
 ### residual sound:     "machine type_lable_method_nr.wav"
   **machine type:**     *Indicates which machine type this audio belongs to*
   
