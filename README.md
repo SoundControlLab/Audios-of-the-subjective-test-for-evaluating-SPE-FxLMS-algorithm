@@ -9,10 +9,12 @@
   
   power -- power transformer;  
   converter -- converter transformer.
+  
   **lable:**             *Indicates which machine this audio belongs to*
   
   1 -- transformer 1;    
   2 -- transformer 2.
+  
   **positionID:**        *Indicates which target position this reference sound recorded from in the control room*
   
   1 -- target position 1;    
@@ -20,17 +22,23 @@
   3 -- target position 3;  
   4 -- target position 4.
 ### residual sound:     "machine type_lable_method_nr.wav"
-  #### machine type:     Indicates which machine type this audio belongs to
+  **machine type:**     *Indicates which machine type this audio belongs to*
+  
   power -- power transformer;  
   converter -- converter transformer.
-  #### lable:            Indicates which machine this audio belongs to
+  
+  **lable:**            *Indicates which machine this audio belongs to*
+  
   1 -- transformer 1;    
   2 -- transformer 2.
-  #### method:           Indicates which algorithm this residual sound resultant from
+  
+  **method:**           *Indicates which algorithm this residual sound resultant from*
+  
   FxLMS; 
   Broadband ANE; 
   SPE-FxLMS.
-  #### nr:               Indicates the noise reduction level
+  
+  **nr:**               *Indicates the noise reduction level*
   9dB; 
   12dB; 
   15dB; 
