@@ -5,7 +5,7 @@
   
 ## Naming rules for the audios of subjective text: 
 ### reference sounds:   "machine type_lable_target_positionID.wav"
-  #### machine type:      *Indicates which machine type this audio belongs to*
+  ** machine type: **     *Indicates which machine type this audio belongs to*
   power -- power transformer;  
   converter -- converter transformer.
   #### lable:             Indicates which machine this audio belongs to
