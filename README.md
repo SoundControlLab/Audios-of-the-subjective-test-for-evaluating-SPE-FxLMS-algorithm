@@ -39,6 +39,7 @@
   SPE-FxLMS.
   
   **nr:**               *Indicates the noise reduction level*
+  
   9dB; 
   12dB; 
   15dB; 
